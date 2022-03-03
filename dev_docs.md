@@ -1,6 +1,7 @@
 # Welcome to the SheTrains Developent Documentation
 
 ## Get Started
+To get started we'll have you clone the SheTrains repo, install dependancies and of course run the code.
 
 ### Clone Repo
 Press the ![code button](/docs/assets/imgs/code_button.jpg) button and clone the repo either by:
