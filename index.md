@@ -13,6 +13,7 @@ Hormone cycles naturally change your bodies ability to train so syncing your tra
 - Follicular Phase
 - Ovulation Phase
 - Luteal Phase
+
 These four phases have very different effects on your body and for optimal performance and strength plus injury prevention one should alter their training schedule to follow what their body needs. As an example the studies have shown that ACL injuries are more likely to occure during the luteal phase.
 
 ### Motivations
