@@ -43,6 +43,6 @@ Developers:
 
 | [Tristan](https://github.com/cusitristan)| [Dave](https://github.com/NewcDukem) | [Gordon](https://github.com/gordonchiang) | [Mathiew](https://github.com/matthewvb77) | [Sean](https://github.com/LivingInLimbo) |
 | ---------------------------------------- | ------------------------------------ | ----------------------------------------- | ----------------------------------------- | ---------------------------------------- |
-| <img src="/imgs/Tristan_img.jpg" width = "200" height = "150"> | |
+| {% include image.html file="Tristan_img.jpg" caption="Tistan" %} | |
 
-testing
+testing 1
