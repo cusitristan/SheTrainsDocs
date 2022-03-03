@@ -38,18 +38,10 @@ Founders:
 | --- | --- |
 
 Developers: 
-| [Tristan][Tristan_link]| [Dave][Dave_link] | [Gordon][Gordon_link] | [Mathiew][Mathiew_link] | [Sean][Sean_link] |
+| [Tristan](https://github.com/cusitristan)| [Dave](https://github.com/NewcDukem) | [Gordon](https://github.com/gordonchiang) | [Mathiew](https://github.com/matthewvb77) | [Sean](https://github.com/LivingInLimbo) |
 | --- | --- | --- | --- | --- |
 | <img src="https://github.com/cusitristan/SheTrainsDocs/blob/main/imgs/Tristan_img.jpg" width = "200" height = "150"> | |
 
-
-[Ella_img]:
-[Tori_img]:
-[Tristan_link]:https://github.com/cusitristan "GitHub Link"
-[Dave_link]:https://github.com/NewcDukem "GitHub Link"
-[Sean_link]:https://github.com/LivingInLimbo "GitHub Link"
-[Mathiew_link]:https://github.com/matthewvb77 "GitHub Link"
-[Gordon_link]: https://github.com/gordonchiang "GitHub Link"
 
 
 
