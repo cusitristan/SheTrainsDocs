@@ -43,9 +43,6 @@ Developers:
 | <img src="https://github.com/cusitristan/SheTrainsDocs/blob/main/imgs/Tristan_img.jpg" width = "200" height = "150"> | |
 
 
-
-
-
 [Ella_img]:
 [Tori_img]:
 [Tristan_link]:https://github.com/cusitristan "GitHub Link"
