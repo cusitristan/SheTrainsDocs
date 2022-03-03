@@ -1,9 +1,3 @@
----
-title: "SheTrains Development Docs"
-permalink: /
-layout: default
----
-
 # Welcome to the SheTrains Developent Documentation
 
 ## Get Started
