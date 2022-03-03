@@ -20,7 +20,10 @@ Once dependancie are installed:
 3. or download "expo go" on your mobile device and scan the QR code to run the app on your mobile device
 
 ## Personas
+To gain perspective on our target users we have created personas.
 
+The first is Katie and she helps us stand in the shoes of an athlete 
 ![Athete persona](/docs/assets/imgs/katie_rugby_player.png)
 
+The second is Avi and she helps us see the our app through the eyes of a coach
 ![Coach persona](/docs/assets/imgs/avi_strength_coach.png)
