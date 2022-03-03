@@ -31,6 +31,7 @@ With SheTrains, athletes can track their training as well as their mentrual cycl
 SheTrains helps athletes be more in touch with their body than ever before.
 
 ## :book: Developer Documentation
+Our development documentation can found [here](dev_docs.md).
 
 ## Team
 Founders:
