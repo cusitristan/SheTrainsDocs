@@ -21,7 +21,7 @@ These four phases have very different effects on your body and for optimal perfo
    2. We want to raise awareness and take down the stigma around discussing menstrual cycles especially when it comes to athletes and their training.
    3. We want to be the number one recognized training app for professionals 
 
-### :surfer: What is SheTrains and how does it Help?
+### :weight_lifting_woman: What is SheTrains and how does it Help?
 SheTrains is a mobile app for Andriod and IOS and is a fitness planner that takes your hormone cycle into account and provides actionable advice to improve your training schedule. 
 
 The app also builds a bridge from athlete to coach so coaches can view the athletes cycles and makes adjustments to their training based on that information.
