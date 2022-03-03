@@ -34,11 +34,13 @@ SheTrains helps athletes be more in touch with their body than ever before.
 
 ## Team
 Founders:
+
 | Ella | Tori |
 | ---- | ---- |
 |      |      |
 
 Developers: 
+
 | [Tristan](https://github.com/cusitristan)| [Dave](https://github.com/NewcDukem) | [Gordon](https://github.com/gordonchiang) | [Mathiew](https://github.com/matthewvb77) | [Sean](https://github.com/LivingInLimbo) |
 | ---------------------------------------- | ------------------------------------ | ----------------------------------------- | ----------------------------------------- | ---------------------------------------- |
 | <img src="https://github.com/cusitristan/SheTrainsDocs/blob/main/imgs/Tristan_img.jpg" width = "200" height = "150"> | |
