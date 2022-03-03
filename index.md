@@ -37,8 +37,10 @@ Founders:
 
 | Ella | Tori |
 | ---- | ---- |
+|      |      |
 
 Developers: 
 
 | [Tristan](https://github.com/cusitristan)| [Dave](https://github.com/NewcDukem) | [Gordon](https://github.com/gordonchiang) | [Mathiew](https://github.com/matthewvb77) | [Sean](https://github.com/LivingInLimbo) |
 | ---------------------------------------- | ------------------------------------ | ----------------------------------------- | ----------------------------------------- | ---------------------------------------- |
+|                                          |                                      |                                           |                                           |                                          |
