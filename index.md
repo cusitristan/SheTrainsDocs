@@ -29,3 +29,5 @@ With SheTrains, athletes can track their training as well as their mentrual cycl
 ## Developer Documentation
 
 ## Team
+Founders of SheTrains:
+Ella and Tori
