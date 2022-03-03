@@ -21,4 +21,6 @@ Once dependancie are installed:
 
 ## Personas
 
+![Athete persona](/docs/assets/imgs/katie_rugby_player.png)
 
+![Coach persona](/docs/assets/imgs/avi_strength_coach.png)
