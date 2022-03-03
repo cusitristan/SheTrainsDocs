@@ -37,12 +37,8 @@ Founders:
 
 | Ella | Tori |
 | ---- | ---- |
-|      |      |
 
 Developers: 
 
 | [Tristan](https://github.com/cusitristan)| [Dave](https://github.com/NewcDukem) | [Gordon](https://github.com/gordonchiang) | [Mathiew](https://github.com/matthewvb77) | [Sean](https://github.com/LivingInLimbo) |
-| ---------------------------------------- | ------------------------------------ | ----------------------------------------- | ----------------------------------------- | ---------------------------------------- |
-| <img src="/imgs/Tristan_img.jpg" width = "160" height = "125">  | |
-
-testing 3
+| ---------------------------------------- | ------------------------------------ | ----------------------------------------- | ------------------------------------
