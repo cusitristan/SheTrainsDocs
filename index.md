@@ -42,6 +42,9 @@ Developers:
 | --- | --- | --- | --- | --- |
 | <img src="https://github.com/cusitristan/SheTrainsDocs/blob/main/imgs/Tristan_img.jpg" width = "200" height = "150"> | |
 
-
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 
