@@ -4,7 +4,7 @@ permalink: /
 layout: default
 ---
 
-# Welcome to SheTrains!
+# Welcome to SheTrains Product Page!
 SheTrains is the first mentrual and fitness tracker for professional athletes helping you reach your goals faster than the competition.
 
 ## :bulb: About
@@ -31,7 +31,7 @@ With SheTrains, athletes can track their training as well as their mentrual cycl
 SheTrains helps athletes be more in touch with their body than ever before.
 
 ## :book: Developer Documentation
-Our development documentation can found [here](dev_docs.md).
+Our development documentation can found [**here**](dev_docs.md).
 
 ## Team
 Founders:
