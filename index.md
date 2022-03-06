@@ -36,7 +36,7 @@ Our development documentation can found [**here**](dev_docs.md).
 ## Team
 Founders:
 
-| Ella | Tori |
+| Ella | [Tori](https://www.linkedin.com/in/tori-kalyniuk-9554aa179) |
 | ---- | ---- |
 |      |      |
 
