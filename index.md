@@ -44,4 +44,4 @@ Developers:
 
 | [Tristan](https://github.com/cusitristan)| [Dave](https://github.com/NewcDukem) | [Gordon](https://github.com/gordonchiang) | [Matthew](https://github.com/matthewvb77) | [Shaun](https://github.com/LivingInLimbo) |
 | ---------------------------------------- | ------------------------------------ | ----------------------------------------- | ----------------------------------------- | ---------------------------------------- |
-|{::comment}![Tristan_img](/docs/assets/imgs/Tristan_img.jpeg){:/comment}|                                      |                                           |                                           |                                          |
+|![Tristan_img](/docs/assets/imgs/Tristan_img.png)|![Dave_img](/docs/assets/imgs/Dave_img.png)|![Gordon_img](/docs/assets/imgs/Gordon_img.png)|![Matthew_img](/docs/assets/imgs/Matthew_img.png)|![Shaun_img](/docs/assets/imgs/Shaun_img.png)|
