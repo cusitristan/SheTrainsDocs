@@ -1,5 +1,5 @@
 # Welcome to the SheTrains Developent Documentation
-
+Back to [product page](index.md) 
 ## Get Started
 To get started we'll have you clone the SheTrains repo, install dependancies and of course run the code.
 
@@ -18,7 +18,9 @@ Once you have a local copy of the repo you'll need to:
 Once dependancie are installed:
 1. type `yarn run` or `npm run`
 2. once the app is running press w to see app run in a browser
-3. or download "expo go" on your mobile device and scan the QR code to run the app on your mobile device
+3. or download [expo go](https://expo.dev/client) on your mobile device and scan the QR code to run the app on your mobile device
+
+![QR_code](/docs/assets/imgs/QR_code.png)
 
 ## Personas
 To gain perspective on our target users we have created personas.

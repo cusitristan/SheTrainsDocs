@@ -4,7 +4,7 @@ permalink: /
 layout: default
 ---
 
-# Welcome to SheTrains!
+# Welcome to SheTrains Product Page!
 SheTrains is the first mentrual and fitness tracker for professional athletes helping you reach your goals faster than the competition.
 
 ## :bulb: About
@@ -36,12 +36,12 @@ Our development documentation can found [here](dev_docs.md).
 ## Team
 Founders:
 
-| Ella | Tori |
+| Ella | [Tori](https://www.linkedin.com/in/tori-kalyniuk-9554aa179) |
 | ---- | ---- |
 |      |      |
 
 Developers: 
 
-| [Tristan](https://github.com/cusitristan)| [Dave](https://github.com/NewcDukem) | [Gordon](https://github.com/gordonchiang) | [Mathiew](https://github.com/matthewvb77) | [Sean](https://github.com/LivingInLimbo) |
+| [Tristan](https://github.com/cusitristan)| [Dave](https://github.com/NewcDukem) | [Gordon](https://github.com/gordonchiang) | [Matthew](https://github.com/matthewvb77) | [Shaun](https://github.com/LivingInLimbo) |
 | ---------------------------------------- | ------------------------------------ | ----------------------------------------- | ----------------------------------------- | ---------------------------------------- |
-|![Tristan_img](/docs/assets/imgs/Tristan_img.jpeg)|                                      |                                           |                                           |                                          |
+|{::comment}![Tristan_img](/docs/assets/imgs/Tristan_img.jpeg){:/comment}|                                      |                                           |                                           |                                          |
