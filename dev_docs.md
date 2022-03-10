@@ -30,3 +30,72 @@ The first is Katie and she helps us stand in the shoes of an athlete
 
 The second is Avi and she helps us see the our app through the eyes of a coach
 ![Coach persona](/docs/assets/imgs/avi_strength_coach.png)
+
+## Current Main Use Case
+
+Using the coach persona defined above, Avi. This is the main use case we've defined so far based on our current requirements set. Something to note is that our current requirement set is not the same as the requirements defined below. Below is the **full** set of requirements.
+
+1. Avi signs in
+2. See list of athletes
+3. Sees dashboard
+4. Selects athlete
+5. Checks athletes fatigue chart
+6. Sees what phase the athlete is in
+7. Sees suggestions for that phase
+8. Sends “nudge” to athlete
+9. Adjusts training plan based on athlete response
+
+
+## Full Requirements
+
+### Traits:
+
+- Quick and easy for athletes & coaches to use
+- Limited manual input
+- Very low barrier to entry for each party
+- Slick, modern UI
+- Simplicity
+
+### Coaching:
+
+- Dashboard
+  - Show aggregate data for each/all athletes
+  - Data filtering
+  - Data sorting
+- Show cycle data for individual athletes so coaches can make decisions based off the research surrounding training and the menstrual cycle
+  - Where each athlete is in their cycle
+  - Symptoms that commonly occur during those phases (submitted by athletes through period tracking companion app)
+- Communication Features
+  - Coaches can create custom forms to “query” their athletes, mostly based on menstrual cycle info/suggestions
+    - Training data - out of scope for the course, but necessary in the future
+    - General data
+  - Ability to send these forms on a periodic interval set by the coach
+  - Forms would be very easy for the athlete to use
+    - Sliders
+    - Buttons
+
+### Athletes:
+
+- Period/symptom tracking companion app for athletes
+  - Calendar view
+  - Shows where athlete currently is in their phase based off user input
+    - Age, birth control, last period, etc.
+  - Can enter symptoms on each day
+    - Bleeding, cramps, etc.
+  - Potentially mild predictive features
+  - View for answering coach “queries”
+    - Sliders, buttons, etc.
+  - Notifications for coach “queries”
+  - Workout tracking - out of scope, but necessary in the future
+
+## Design Philosophy
+
+- Initially, our team was heavily focused around providing value to the athlete
+- After lengthy discussion, as well as an interview with a national level athlete, we decided to pivot our app quite heavily
+- Instead of focusing on providing value to the athlete, we’re focusing on providing value completely to the coach, specifically, high level coaches
+  - High level athletes don’t pay for their training apps/coaches, it’s the team that sponsors them that pays (needs citation)
+  - Coaches are more able to use the period tracking information vs. athletes, whose training plan is mostly dictated by their coach anyways
+  - At the highest levels, coaches/teams are much more likely to pay for fringe benefits vs. lower level/amateur teams where the difference in performance does not matter as much
+- Also deciding to focus on sports where millisecond differences matter
+  - Sprinting, cycling, etc.
+  - These sports are more likely to pay for very small benefits vs. sports like hockey where these minute benefits would not be very noticeable
