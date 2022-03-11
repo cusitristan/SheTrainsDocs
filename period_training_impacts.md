@@ -1,4 +1,6 @@
 # :bulb: About
+Back to [product page](index.md).
+
 Hormone cycles naturally change your body's capacity for training, so syncing your training with your body is an obvious next step for any professional athlete looking to step up their game. The menstrual cycle can be split into four different phases:
 - Menstrual Phase
 - Follicular Phase
