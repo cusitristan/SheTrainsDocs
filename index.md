@@ -17,9 +17,12 @@ SheTrains is both a mobile app for Andriod and iOS and a web-based app.
 
 The mobile app is a period cycle tracker and is designed for athletes. Using the app, athletes can easily track their period symptoms. The process is streamlined, so athletes don't have to worry about fumbling with their phones to input all their data--it really is that easy! The data that athletes input is automatically sent to their coaches to help them make adjustments to training plans.
 
-The web-based app is a dashboard of visualizations powered by the athlete's data and the best scientific evidence available! Coaches can track their athletes' menstrual cycles and symptoms, and use the insightful visualizations to adjust their training plans to perfectly match their athlete's condition. 
+![dashboard_view](/docs/assets/imgs/sdashboard_view.gif)
+The web-based app is a dashboard of visualizations powered by the athlete's data and the best scientific evidence available! Coaches can track their athletes' menstrual cycles and symptoms, and use the insightful visualizations to adjust their training plans to perfectly match their athlete's condition.
 
 SheTrains builds a bridge between athletes and coaches. Using SheTrains, coaches can learn more about how an athlete's period affects them and can quickly remind their athletes to track their symptoms.
+![initial_data_input](/docs/assets/imgs/initial_data_input.gif)![symptoms_input](/docs/assets/imgs/symptoms_input.gif)
+We pride ourselves in making the data entry process as quick and painless as possible so you can get back to working out!
 
 SheTrains helps athletes be more in touch with their body than ever before.
 
