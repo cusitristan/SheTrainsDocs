@@ -1,26 +1,9 @@
-# Welcome to the SheTrains Developent Documentation
-Back to [product page](index.md) 
-## Get Started
-To get started we'll have you clone the SheTrains repo, install dependancies and of course run the code.
+# Welcome to the SheTrains Development Documentation
+Back to [product page](index.md).
 
-### Clone Repo
-Press the ![code button](/docs/assets/imgs/code_button.jpg) button and clone the repo either by:
-1. Copying HTTPS URL and opening GitHub Desktop -> File -> Clone repository -> URL -> paste URL and choose location
-2. Copying HTTPS URL and opening your preffered terminal -> cd into location -> run `$ git clone <URL>`
-3. Press Download Zip -> find .zip file -> extract it and place in preffered location
+Welcome to SheTrains' development documentation page!
 
-### Install Dependencies
-Once you have a local copy of the repo you'll need to:
-1. open a terminal and cd to the repo
-2. type `yarn install` or `npm install`
-
-### Run the Code
-Once dependancie are installed:
-1. type `yarn run` or `npm run`
-2. once the app is running press w to see app run in a browser
-3. or download [expo go](https://expo.dev/client) on your mobile device and scan the QR code to run the app on your mobile device
-
-![QR_code](/docs/assets/imgs/QR_code.png)
+You can track the development progress of SheTrains on our [Miro Kanban board](https://miro.com/app/board/uXjVOHIqjM4=/?invite_link_id=871805981124).
 
 ## Personas
 To gain perspective on our target users we have created personas.
@@ -99,3 +82,30 @@ Using the coach persona defined above, Avi. This is the main use case we've defi
 - Also deciding to focus on sports where millisecond differences matter
   - Sprinting, cycling, etc.
   - These sports are more likely to pay for very small benefits vs. sports like hockey where these minute benefits would not be very noticeable
+
+## Get Started
+
+:warning: Our development team has recently pivoted the direction of SheTrains. **The steps below are outdated and no longer reflect our vision of SheTrains** (although you may take a look at our old vision if you are interested!). Please see the Figma prototypes on our [product page](index.md) for a demo of what we are striving towards!
+
+You may also find a presentation of our older vision of SheTrains [here](https://docs.google.com/presentation/d/1dNkHQp1s_kYHDXfFVXeRnpM1mjSNfx-HJK76AULFA3s/edit?usp=sharing).
+
+To get started we'll have you clone the SheTrains repo, install dependancies and of course run the code.
+
+### Clone Repo
+Press the ![code button](/docs/assets/imgs/code_button.jpg) button and clone the repo either by:
+1. Copying HTTPS URL and opening GitHub Desktop -> File -> Clone repository -> URL -> paste URL and choose location
+2. Copying HTTPS URL and opening your preffered terminal -> cd into location -> run `$ git clone <URL>`
+3. Press Download Zip -> find .zip file -> extract it and place in preffered location
+
+### Install Dependencies
+Once you have a local copy of the repo you'll need to:
+1. open a terminal and cd to the repo
+2. type `yarn install` or `npm install`
+
+### Run the Code
+Once dependancie are installed:
+1. type `yarn run` or `npm run`
+2. once the app is running press w to see app run in a browser
+3. or download [expo go](https://expo.dev/client) on your mobile device and scan the QR code to run the app on your mobile device
+
+![QR_code](/docs/assets/imgs/QR_code.png)
