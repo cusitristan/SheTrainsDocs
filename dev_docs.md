@@ -8,6 +8,9 @@ You can track the development progress of SheTrains on our [Miro Kanban board](h
 ## Market Research
 Our market research can be found [here](https://docs.google.com/document/d/1_obkrHjP5iOUZ2Q-JGU_X8vTIjbpcwR4s2MqTUNNHiw/edit?usp=sharing).
 
+## Team Contributions
+A breakdown of team contributions can be found [here](https://docs.google.com/document/d/11S9Xa3bdAaYhfWwDXiT6zvBAnbTua4WQ0faoHrVRx2w/edit?usp=sharing).
+
 ## Personas
 To gain perspective on our target users we have created personas.
 
