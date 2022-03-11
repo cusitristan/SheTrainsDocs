@@ -5,6 +5,9 @@ Welcome to SheTrains' development documentation page!
 
 You can track the development progress of SheTrains on our [Miro Kanban board](https://miro.com/app/board/uXjVOHIqjM4=/?invite_link_id=871805981124).
 
+## Market Research
+Our market research can be found [here](https://docs.google.com/document/d/1_obkrHjP5iOUZ2Q-JGU_X8vTIjbpcwR4s2MqTUNNHiw/edit?usp=sharing).
+
 ## Personas
 To gain perspective on our target users we have created personas.
 

@@ -43,9 +43,6 @@ In the meantime, feel free to play around with our Figma prototypes to see what 
 ## :book: Developer Documentation
 Our development documentation can be found [here](dev_docs.md).
 
-## :book: Market Research
-Our market research can be found [here](https://docs.google.com/document/d/1_obkrHjP5iOUZ2Q-JGU_X8vTIjbpcwR4s2MqTUNNHiw/edit?usp=sharing).
-
 ## Team
 Founders:
 
