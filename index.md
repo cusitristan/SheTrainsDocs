@@ -25,6 +25,15 @@ SheTrains helps athletes be more in touch with their body than ever before.
 
 Want to learn more about how your period can affect your training? See [here](period_training_impacts.md) for more!
 
+### :heart_eyes: Try out SheTrains!
+
+SheTrains is currently under active development, but we're working our hardest to deliver to athletes and coaches the best experience possible!
+
+In the meantime, feel free to play around with our Figma prototypes to see what we have in store for you soon:
+- [An athlete's first time using SheTrains](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=250%3A389&scaling=scale-down&page-id=248%3A68&starting-point-node-id=250%3A389)
+- [An athlete being reminded by their coach to track their period symptoms](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=294%3A2228&scaling=scale-down&page-id=294%3A1182&starting-point-node-id=294%3A2228)
+- [A coach gathering insights from SheTrains](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=315%3A1450&scaling=scale-down&page-id=263%3A18&starting-point-node-id=315%3A1450)
+
 ## :book: Developer Documentation
 Our development documentation can be found [here](dev_docs.md).
 
