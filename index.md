@@ -5,30 +5,25 @@ layout: default
 ---
 
 # Welcome to SheTrains Product Page!
-SheTrains is the first mentrual and fitness tracker for professional athletes helping you reach your goals faster than the competition.
+SheTrains is an athlete management tool for high-level athletic coaches. SheTrains offers a period tracking mobile application for athletes and a web-based dashboard and visualizations application for coaches.
 
-## :bulb: About
-Hormone cycles naturally change your bodies ability to train so syncing your training with your body is an obvious next step for any professional athlete looking to step up their game. The menstrual cycle can be split into four different phases:
-- Menstrual Phase
-- Follicular Phase
-- Ovulation Phase
-- Luteal Phase
+## :trophy: Motivations
+   1. We want athletes to train harder and safer so they can excel in their sport and win competitions. We are commited to seeing SheTrainers rise above their expectations!
+   2. We want to raise awareness and eliminate the stigma around discussing menstrual cycles, especially when it comes to athletes and their training.
+   3. We want to empower athletes and coaches to harness the body's natural capacity for growth rather than making them fight against the body.
 
-These four phases have very different effects on your body and for optimal performance and strength plus injury prevention one should alter their training schedule to follow what their body needs. As an example the studies have shown that ACL injuries are more likely to occure during the luteal phase.
+## :weight_lifting_woman: What is SheTrains and how does it help?
+SheTrains is both a mobile app for Andriod and iOS and a web-based app.
 
-### :trophy: Motivations
-   1. We want athletes to train harder and with less injuries so they can excel in their sport and win competitions. We are commited to seeing SheTrainers rise above their expectations and soon hope to prove with hard data that our product works. 
-   2. We want to raise awareness and take down the stigma around discussing menstrual cycles especially when it comes to athletes and their training.
-   3. We want to be the number one recognized training app for professionals 
+The mobile app is a period cycle tracker and is designed for athletes. Using the app, athletes can easily track their period symptoms. The process is streamlined, so athletes don't have to worry about fumbling with their phones to input all their data--it really is that easy! The data that athletes input is automatically sent to their coaches to help them make adjustments to training plans.
 
-### :weight_lifting_woman: What is SheTrains and how does it Help?
-SheTrains is a mobile app for Andriod and IOS and is a fitness planner that takes your hormone cycle into account and provides actionable advice to improve your training schedule. 
+The web-based app is a dashboard of visualizations powered by the athlete's data and the best scientific evidence available! Coaches can track their athletes' menstrual cycles and symptoms, and use the insightful visualizations to adjust their training plans to perfectly match their athlete's condition. 
 
-The app also builds a bridge from athlete to coach so coaches can view the athletes cycles and makes adjustments to their training based on that information.
-
-With SheTrains, athletes can track their training as well as their mentrual cycle and they get customized advice based on their inputs. As default we look towards the latest studies in scientific literature to help athletes understand what the science says about training with your hormone phases. 
+SheTrains builds a bridge between athletes and coaches. Using SheTrains, coaches can learn more about how an athlete's period affects them and can quickly remind their athletes to track their symptoms.
 
 SheTrains helps athletes be more in touch with their body than ever before.
+
+Want to learn more about how your period can affect your training? See [here](period_training_impacts.md) for more!
 
 ## :book: Developer Documentation
 Our development documentation can be found [here](dev_docs.md).
