@@ -3,22 +3,21 @@ Welcome to SheTrains' developmeer documentation page and wiki!
 
 You can also check out our [product page here](index.md), or you may wish to return to SheTrains' [private GitHub repository here](https://github.com/NewcDukem/SheTrains).
 
-You can track the development progress of SheTrains on our [Miro Kanban board](https://miro.com/app/board/uXjVOHIqjM4=/?invite_link_id=871805981124).
-
-| Table of Contents  |                    |
-|--------------------|--------------------|
-| Personas           | [Personas](#personas) |
-| Market Research    | [Market Research](#market-research) |
-| Use Case           | [Use Case](#current-main-use-case) |
-| Design Philosophy  | [Design Philosophy](#design-philosophy) |
-| Requirements       | [Requirements](#full-requirements) |
-| Prototypes         | [Figma (View Only)](https://www.figma.com/file/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype) |
-| Team Contributions | [Team Contributions](#team-contributions) |
-| Get Started        | [Get Started](#get-started) |
-| GitHub Repo        | [GitHub Repo](https://github.com/NewcDukem/SheTrains) |
-| Product Page       | [Product Page](index.md) |
-| Miro Kanban Board  | [Miro Kanban Board](https://miro.com/app/board/uXjVOHIqjM4=/?invite_link_id=871805981124) |
-| Dev Docs and Wiki  | [You're here!](#welcome-to-the-shetrains-developer-documentation-and-wiki) |
+|   | Table of Contents    |                                                                                            |
+|---|----------------------|--------------------------------------------------------------------------------------------|
+|   | -------------------- | --------------------                                                                       |
+|   | Personas             | [Personas](#personas)                                                                      |
+|   | Market Research      | [Google Docs](#market-research)                                                        |
+|   | Use Case             | [Use Case](#current-main-use-case)                                                         |
+|   | Design Philosophy    | [Design Philosophy](#design-philosophy)                                                    |
+|   | Requirements         | [Requirements](#full-requirements)                                                         |
+|   | Prototypes           | [Figma (View Only)](https://www.figma.com/file/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype) |
+|   | Team Contributions   | [Team Contributions](#team-contributions)                                                  |
+|   | Get Started          | [Get Started](#get-started)                                                                |
+|   | GitHub Repo          | [GitHub Repo](https://github.com/NewcDukem/SheTrains)                                      |
+|   | Product Page         | [Product Page](index.md)                                                                   |
+|   | Development Progess  | [Miro Kanban Board](#development-progess)                                                  |
+|   | Dev Docs and Wiki    | [You're here!](#welcome-to-the-shetrains-developer-documentation-and-wiki)                 |
 
 ## Personas
 To gain perspective on our target users we have created personas.
@@ -129,3 +128,7 @@ Once dependancie are installed:
 3. or download [expo go](https://expo.dev/client) on your mobile device and scan the QR code to run the app on your mobile device
 
 ![QR_code](/docs/assets/imgs/QR_code.png)
+
+## Development Progess
+
+You can track the development progress of SheTrains on our [Miro Kanban board](https://miro.com/app/board/uXjVOHIqjM4=/?invite_link_id=871805981124). Our long-term strategy for SheTrains' development is continuously evolving as our team progresses through the project milestones; our tickets only reflect what we think is important at each milestone and are subject to change as we make progress and gather feedback.
