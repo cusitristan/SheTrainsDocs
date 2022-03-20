@@ -1,15 +1,24 @@
-# Welcome to the SheTrains Development Documentation
-Back to [product page](index.md).
+# Welcome to the SheTrains Developer Documentation and Wiki
+Welcome to SheTrains' developmeer documentation page and wiki!
 
-Welcome to SheTrains' development documentation page!
+You can also check out our [product page here](index.md), or you may wish to return to SheTrains' [private GitHub repository here](https://github.com/NewcDukem/SheTrains).
 
 You can track the development progress of SheTrains on our [Miro Kanban board](https://miro.com/app/board/uXjVOHIqjM4=/?invite_link_id=871805981124).
 
-## Market Research
-Our market research can be found [here](https://docs.google.com/document/d/1_obkrHjP5iOUZ2Q-JGU_X8vTIjbpcwR4s2MqTUNNHiw/edit?usp=sharing).
-
-## Team Contributions
-A breakdown of team contributions can be found [here](https://docs.google.com/document/d/11S9Xa3bdAaYhfWwDXiT6zvBAnbTua4WQ0faoHrVRx2w/edit?usp=sharing).
+| Table of Contents  |                    |
+|--------------------|--------------------|
+| Personas           | [Personas](#personas) |
+| Market Research    | [Market Research](#market-research) |
+| Use Case           | [Use Case](#current-main-use-case) |
+| Design Philosophy  | [Design Philosophy](#design-philosophy) |
+| Requirements       | [Requirements](#full-requirements) |
+| Prototypes         | [Figma (View Only)](https://www.figma.com/file/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype) |
+| Team Contributions | [Team Contributions](#team-contributions) |
+| Get Started        | [Get Started](#get-started) |
+| GitHub Repo        | [GitHub Repo](https://github.com/NewcDukem/SheTrains) |
+| Product Page       | [Product Page](index.md) |
+| Miro Kanban Board  | [Miro Kanban Board](https://miro.com/app/board/uXjVOHIqjM4=/?invite_link_id=871805981124) |
+| Dev Docs and Wiki  | [You're here!](#welcome-to-the-shetrains-developer-documentation-and-wiki) |
 
 ## Personas
 To gain perspective on our target users we have created personas.
@@ -19,6 +28,9 @@ The first is Katie and she helps us stand in the shoes of an athlete
 
 The second is Avi and she helps us see the our app through the eyes of a coach
 ![Coach persona](/docs/assets/imgs/avi_strength_coach.png)
+
+## Market Research
+Our market research can be found [here](https://docs.google.com/document/d/1_obkrHjP5iOUZ2Q-JGU_X8vTIjbpcwR4s2MqTUNNHiw/edit?usp=sharing).
 
 ## Current Main Use Case
 
@@ -34,6 +46,17 @@ Using the coach persona defined above, Avi. This is the main use case we've defi
 8. Sends “nudge” to athlete
 9. Adjusts training plan based on athlete response
 
+## Design Philosophy
+
+- Initially, our team was heavily focused around providing value to the athlete
+- After lengthy discussion, as well as an interview with a national level athlete, we decided to pivot our app quite heavily
+- Instead of focusing on providing value to the athlete, we’re focusing on providing value completely to the coach, specifically, high level coaches
+  - High level athletes don’t pay for their training apps/coaches, it’s the team that sponsors them that pays (needs citation)
+  - Coaches are more able to use the period tracking information vs. athletes, whose training plan is mostly dictated by their coach anyways
+  - At the highest levels, coaches/teams are much more likely to pay for fringe benefits vs. lower level/amateur teams where the difference in performance does not matter as much
+- Also deciding to focus on sports where millisecond differences matter
+  - Sprinting, cycling, etc.
+  - These sports are more likely to pay for very small benefits vs. sports like hockey where these minute benefits would not be very noticeable
 
 ## Full Requirements
 
@@ -77,17 +100,8 @@ Using the coach persona defined above, Avi. This is the main use case we've defi
   - Notifications for coach “queries”
   - Workout tracking - out of scope, but necessary in the future
 
-## Design Philosophy
-
-- Initially, our team was heavily focused around providing value to the athlete
-- After lengthy discussion, as well as an interview with a national level athlete, we decided to pivot our app quite heavily
-- Instead of focusing on providing value to the athlete, we’re focusing on providing value completely to the coach, specifically, high level coaches
-  - High level athletes don’t pay for their training apps/coaches, it’s the team that sponsors them that pays (needs citation)
-  - Coaches are more able to use the period tracking information vs. athletes, whose training plan is mostly dictated by their coach anyways
-  - At the highest levels, coaches/teams are much more likely to pay for fringe benefits vs. lower level/amateur teams where the difference in performance does not matter as much
-- Also deciding to focus on sports where millisecond differences matter
-  - Sprinting, cycling, etc.
-  - These sports are more likely to pay for very small benefits vs. sports like hockey where these minute benefits would not be very noticeable
+## Team Contributions
+A breakdown of team contributions can be found [here](https://docs.google.com/document/d/11S9Xa3bdAaYhfWwDXiT6zvBAnbTua4WQ0faoHrVRx2w/edit?usp=sharing).
 
 ## Get Started
 
