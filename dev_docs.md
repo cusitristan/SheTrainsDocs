@@ -7,11 +7,12 @@ You can also check out our [product page here](index.md), or you may wish to ret
 |---|----------------------|--------------------------------------------------------------------------------------------|
 |   | -------------------- | --------------------                                                                       |
 |   | Personas             | [Personas](#personas)                                                                      |
-|   | Market Research      | [Google Docs](#market-research)                                                        |
+|   | Market Research      | [Google Docs](#market-research)                                                            |
+|   | User Feedback        | [Google Docs](#user-feedback)                                                              |
 |   | Use Case             | [Use Case](#current-main-use-case)                                                         |
 |   | Design Philosophy    | [Design Philosophy](#design-philosophy)                                                    |
 |   | Requirements         | [Requirements](#full-requirements)                                                         |
-|   | Prototypes           | [Figma (View Only)](https://www.figma.com/file/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype) |
+|   | Prototypes           | [Figma (View Only)](#prototypes)                                                           |
 |   | Team Contributions   | [Team Contributions](#team-contributions)                                                  |
 |   | Get Started          | [Get Started](#get-started)                                                                |
 |   | GitHub Repo          | [GitHub Repo](https://github.com/NewcDukem/SheTrains)                                      |
@@ -30,6 +31,9 @@ The second is Avi and she helps us see the our app through the eyes of a coach
 
 ## Market Research
 Our market research can be found [here](https://docs.google.com/document/d/1_obkrHjP5iOUZ2Q-JGU_X8vTIjbpcwR4s2MqTUNNHiw/edit?usp=sharing).
+
+## User Feedback
+Our user feedback can be found [here](https://docs.google.com/document/d/1_KWH0lfyA3akdgJwGFHxCtil1POfQ8QoXNo63ExMCQA/edit?usp=sharing).
 
 ## Current Main Use Case
 
@@ -98,6 +102,13 @@ Using the coach persona defined above, Avi. This is the main use case we've defi
     - Sliders, buttons, etc.
   - Notifications for coach “queries”
   - Workout tracking - out of scope, but necessary in the future
+
+## Prototypes
+Our application prototypes can be found [here](https://www.figma.com/file/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype).
+
+Our most recent prototype for SheTrains for the athlete-focused mobile app can be found [here](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=250%3A389&scaling=scale-down&page-id=248%3A68&starting-point-node-id=250%3A389). Check out [Get Started](#get-started) to see how to install the in-development version of Shetrains on your phone.
+
+Our most recent prototype for Shetrains for the coach-focused dashboard can be found [here](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=582%3A2211&scaling=scale-down&page-id=582%3A2210&starting-point-node-id=582%3A2211).
 
 ## Team Contributions
 A breakdown of team contributions can be found [here](https://docs.google.com/document/d/11S9Xa3bdAaYhfWwDXiT6zvBAnbTua4WQ0faoHrVRx2w/edit?usp=sharing).
