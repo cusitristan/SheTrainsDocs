@@ -38,7 +38,7 @@ SheTrains is currently under active development, but we're working our hardest t
 In the meantime, feel free to play around with our Figma prototypes to see what we have in store for you soon:
 - [An athlete's first time using SheTrains](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=250%3A389&scaling=scale-down&page-id=248%3A68&starting-point-node-id=250%3A389)
 - [An athlete being reminded by their coach to track their period symptoms](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=294%3A2228&scaling=scale-down&page-id=294%3A1182&starting-point-node-id=294%3A2228)
-- [A coach gathering insights from SheTrains](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=582%3A2211&scaling=scale-down&page-id=582%3A2210&starting-point-node-id=582%3A2211)
+- [Interactive SheTrains Coach Dashboard](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=582%3A2211&scaling=scale-down&page-id=582%3A2210&starting-point-node-id=582%3A2211)
 
 ...and enjoy some screenshots of what's to come!
 
