@@ -12,13 +12,13 @@ You can also check out our [product page here](index.md), or you may wish to ret
 |   | Use Case             | [Use Case](#current-main-use-case)                                                         |
 |   | Design Philosophy    | [Design Philosophy](#design-philosophy)                                                    |
 |   | Requirements         | [Requirements](#full-requirements)                                                         |
-|   | Prototypes           | [Figma (View Only)](#prototypes)                                                           |
-|   | Presentations        | [Google Slides](#presentations)                                                           |
-|   | Team Contributions   | [Team Contributions](#team-contributions)                                                  |
+|   | Prototypes           | [Figma](#prototypes)                                                                       |
+|   | Presentations        | [Google Slides](#presentations)                                                            |
 |   | Get Started          | [Get Started](#get-started)                                                                |
-|   | GitHub Repo          | [GitHub Repo](https://github.com/NewcDukem/SheTrains)                                      |
+|   | GitHub Repo          | [GitHub Repo (Private)](https://github.com/NewcDukem/SheTrains)                            |
 |   | Product Page         | [Product Page](index.md)                                                                   |
 |   | Development Progess  | [Miro Kanban Board](#development-progess)                                                  |
+|   | Team Contributions   | [Google Docs](#team-contributions)                                                         |
 |   | Dev Docs and Wiki    | [You're here!](#welcome-to-the-shetrains-developer-documentation-and-wiki)                 |
 
 ## Personas
@@ -117,9 +117,6 @@ Our most recent presentation of SheTrains can be found [here](https://docs.googl
 
 You may also find a presentation of our older vision of SheTrains [here](https://docs.google.com/presentation/d/1dNkHQp1s_kYHDXfFVXeRnpM1mjSNfx-HJK76AULFA3s/edit?usp=sharing), although it no longer reflects the current vision for SheTrains.
 
-## Team Contributions
-A breakdown of team contributions can be found [here](https://docs.google.com/document/d/11S9Xa3bdAaYhfWwDXiT6zvBAnbTua4WQ0faoHrVRx2w/edit?usp=sharing).
-
 ## Get Started
 
 :warning: Our development team is currently working hard to develop SheTrains, but it is still under active development. Please see the Figma prototypes on our [product page](index.md) for a demo of what we are striving towards! You may still follow the steps below to try out the SheTrains mobile app for athletes if you'd like.
@@ -152,3 +149,6 @@ Once dependancie are installed:
 ## Development Progess
 
 You can track the development progress of SheTrains on our [Miro Kanban board](https://miro.com/app/board/uXjVOHIqjM4=/?invite_link_id=871805981124). Our long-term strategy for SheTrains' development is continuously evolving as our team progresses through the project milestones; our tickets only reflect what we think is important at each milestone and are subject to change as we make progress and gather feedback.
+
+## Team Contributions
+A breakdown of team contributions can be found [here](https://docs.google.com/document/d/11S9Xa3bdAaYhfWwDXiT6zvBAnbTua4WQ0faoHrVRx2w/edit?usp=sharing).
