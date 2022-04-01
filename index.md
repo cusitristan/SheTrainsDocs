@@ -45,6 +45,9 @@ In the meantime, feel free to play around with our Figma prototypes to see what 
 Coach Dashboard:
 ![dashboard_calendar_viz](/docs/assets/imgs/dashboard_calendar_viz.png) ![dashboard_period_phases_viz](/docs/assets/imgs/dashboard_period_phases_viz.png) ![dashboard_fatigue_viz](/docs/assets/imgs/dashboard_fatigue_viz.png)
 
+Athlete App:
+![app_calendar](/docs/assets/imgs/app_calendar.png) ![app_symptoms](/docs/assets/imgs/app_symptoms.png) ![app_query](/docs/assets/imgs/app_query.png)
+
 ## :book: Developer Documentation
 Our development documentation can be found [here](dev_docs.md).
 
