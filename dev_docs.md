@@ -13,6 +13,7 @@ You can also check out our [product page here](index.md), or you may wish to ret
 |   | Design Philosophy    | [Design Philosophy](#design-philosophy)                                                    |
 |   | Requirements         | [Requirements](#full-requirements)                                                         |
 |   | Prototypes           | [Figma (View Only)](#prototypes)                                                           |
+|   | Presentations        | [Google Slides](#presentations)                                                           |
 |   | Team Contributions   | [Team Contributions](#team-contributions)                                                  |
 |   | Get Started          | [Get Started](#get-started)                                                                |
 |   | GitHub Repo          | [GitHub Repo](https://github.com/NewcDukem/SheTrains)                                      |
@@ -110,33 +111,41 @@ Our most recent prototype for SheTrains for the athlete-focused mobile app can b
 
 Our most recent prototype for Shetrains for the coach-focused dashboard can be found [here](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=582%3A2211&scaling=scale-down&page-id=582%3A2210&starting-point-node-id=582%3A2211).
 
+## Presentations
+
+Our most recent presentation of SheTrains can be found [here](https://docs.google.com/presentation/d/11TU_hkToKIVkC5dw11DQNkuDw6Ly1O8s8zWJBCn3lT4/edit?usp=sharing), and an older presentation can be found [here](https://docs.google.com/presentation/d/1LUVmGt--WbwQ2dODBmNgDb2L01qHghVwyP6BGZIMLzo/edit?usp=sharing).
+
+You may also find a presentation of our older vision of SheTrains [here](https://docs.google.com/presentation/d/1dNkHQp1s_kYHDXfFVXeRnpM1mjSNfx-HJK76AULFA3s/edit?usp=sharing), although it no longer reflects the current vision for SheTrains.
+
 ## Team Contributions
 A breakdown of team contributions can be found [here](https://docs.google.com/document/d/11S9Xa3bdAaYhfWwDXiT6zvBAnbTua4WQ0faoHrVRx2w/edit?usp=sharing).
 
 ## Get Started
 
-:warning: Our development team has recently pivoted the direction of SheTrains. **The steps below are outdated and no longer reflect our vision of SheTrains** (although you may take a look at our old vision if you are interested!). Please see the Figma prototypes on our [product page](index.md) for a demo of what we are striving towards!
+:warning: Our development team is currently working hard to develop SheTrains, but it is still under active development. Please see the Figma prototypes on our [product page](index.md) for a demo of what we are striving towards! You may still follow the steps below to try out the SheTrains mobile app for athletes if you'd like.
 
-You may also find a presentation of our older vision of SheTrains [here](https://docs.google.com/presentation/d/1dNkHQp1s_kYHDXfFVXeRnpM1mjSNfx-HJK76AULFA3s/edit?usp=sharing).
+### Private GitHub Repo Access
+Before you try this method, you will need to be given permission from the development team in order to get access to the private GitHub repository. Please contact us for this.
 
 To get started we'll have you clone the SheTrains repo, install dependancies and of course run the code.
 
 ### Clone Repo
-Press the ![code button](/docs/assets/imgs/code_button.jpg) button and clone the repo either by:
-1. Copying HTTPS URL and opening GitHub Desktop -> File -> Clone repository -> URL -> paste URL and choose location
-2. Copying HTTPS URL and opening your preffered terminal -> cd into location -> run `$ git clone <URL>`
-3. Press Download Zip -> find .zip file -> extract it and place in preffered location
+Press the ![code button](/docs/assets/imgs/code_button.jpg) button and clone the repo by following one of these three steps:
+1. Copy the HTTPS URL and open GitHub Desktop -> File -> Clone repository -> URL -> paste URL and choose location
+2. Copy the HTTPS URL -> open a location for SheTrains to be downloaded in your preferred terminal -> run `$ git clone <URL>`
+3. Press Download ZIP -> extract the archive to a desired location
 
 ### Install Dependencies
-Once you have a local copy of the repo you'll need to:
-1. open a terminal and cd to the repo
-2. type `yarn install` or `npm install`
+Once you have a local copy of the repo you'll need to install dependencies:
+1. Open the repo directory in your terminal: `cd SheTrains`
+2. Install dependencies: `yarn install`
 
 ### Run the Code
 Once dependancie are installed:
-1. type `yarn run` or `npm run`
-2. once the app is running press w to see app run in a browser
-3. or download [expo go](https://expo.dev/client) on your mobile device and scan the QR code to run the app on your mobile device
+1. Run the app on your machine using `yarn run`
+2. Once the app is running, it will display a QR code similar to the one below
+3. Download [Expo Go](https://expo.dev/client) on your mobile device and scan the QR code to run the app on your mobile device
+4. Enjoy the sneak peek at what SheTrains has to offer!
 
 ![QR_code](/docs/assets/imgs/QR_code.png)
 
