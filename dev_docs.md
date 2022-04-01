@@ -1,5 +1,5 @@
 # Welcome to the SheTrains Developer Documentation and Wiki
-Welcome to SheTrains' developmeer documentation page and wiki!
+Welcome to SheTrains' developer documentation page and wiki!
 
 You can also check out our [product page here](index.md), or you may wish to return to SheTrains' [private GitHub repository here](https://github.com/NewcDukem/SheTrains).
 
