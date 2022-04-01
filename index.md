@@ -33,7 +33,7 @@ Want to learn more about how your period can affect your training? See [here](pe
 
 ### :heart_eyes: Try out SheTrains!
 
-SheTrains is currently under active development, but we're working our hardest to deliver to athletes and coaches the best experience possible! If you're interested in trying out SheTrains mobile app for athletes, follow the instructions in our [developer documentation](dev_docs.md#get-started) to try out our public beta version.
+SheTrains is currently under active development, but we're working our hardest to deliver to athletes and coaches the best experience possible! If you're interested in trying out SheTrains mobile app for athletes, follow the instructions in our [developer documentation](dev_docs.md#get-started) to try out our beta version.
 
 In the meantime, feel free to play around with our Figma prototypes to see what we have in store for you soon:
 - [An athlete's first time using SheTrains](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=250%3A389&scaling=scale-down&page-id=248%3A68&starting-point-node-id=250%3A389)
