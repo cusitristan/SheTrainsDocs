@@ -13,6 +13,7 @@ To clone our codebase and start developing, go to SheTrains' [private GitHub rep
 |----------------------|--------------------------------------------------------------------------------------------|
 |   Tech Stack Overview             | [Tech Stack Overview](#tech-stack-overview)                                                                      |
 |   Routing     | [Routing](#routing)                                                            |
+|   Helpers     | [Helpers](#helpers)                                                            |
 
 
 ## Tech Stack Overview
@@ -56,3 +57,14 @@ To clone our codebase and start developing, go to SheTrains' [private GitHub rep
   -  Handles form entry for athletes
   -  Form variants are hardcoded, and the form displayed is dependant on an option passed into the route    
 
+## Helpers
+- authHelpers.tsx
+  - Wrapper for Firestore get/set operations
+  - Ensures user is actually authenticated before accessing the database
+  - Takes in the navigation object (default on routes) and a callback which takes in the users uid and completes the operation
+- dateFuncs.tsx
+  - A series of helper functions for manipulating Date objects and getting date strings
+- hooks.tsx
+  - Custom TypeScript hooks to replace the useAppSelector/useAppDispatch Redux hooks   
+- styling.tsx
+  - Contains strings made of tailwind classnames for styling 
