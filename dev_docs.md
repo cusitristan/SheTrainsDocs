@@ -9,11 +9,11 @@ To clone our codebase and start developing, go to SheTrains' [private GitHub rep
 
 ## Table of Contents
 
-|   Section    |                                     Link                                                       |
-|----------------------|--------------------------------------------------------------------------------------------|
-|   Tech Stack Overview             | [Tech Stack Overview](#tech-stack-overview)                                                                      |
-|   Routing     | [Routing](#routing)                                                            |
-|   Helpers     | [Helpers](#helpers)                                                            |
+|                                       Sections                                                       |
+|--------------------------------------------------------------------------------------------|
+|   [Tech Stack Overview](#tech-stack-overview)                                                                      |
+|   [Routing/Component Overview](#routingcomponent-overview)                                                            |
+|    [Helpers](#helpers)                                                            |
 
 
 ## Tech Stack Overview
