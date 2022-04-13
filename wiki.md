@@ -1,7 +1,7 @@
 # Wiki
 Welcome to the SheTrains wiki!
 
-You can also check out our [product page here](index.md), [developer documentation here](dev_docs.md) or you may wish to return to SheTrains' [private GitHub repository here](https://github.com/NewcDukem/SheTrains).
+You can also check out our [product page here](https://sites.google.com/view/shetrains), [developer documentation here](dev_docs.md) or you may wish to return to SheTrains' [private GitHub repository here](https://github.com/NewcDukem/SheTrains).
 
 ## Table of Contents
 |    Section  |                                         Link                                                   |
