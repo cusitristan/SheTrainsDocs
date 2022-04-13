@@ -4,21 +4,21 @@ Welcome to the SheTrains wiki!
 You can also check out our [product page here](https://sites.google.com/view/shetrains), [developer documentation here](dev_docs.md) or you may wish to return to SheTrains' [private GitHub repository here](https://github.com/NewcDukem/SheTrains).
 
 ## Table of Contents
-|    Section  |                                         Link                                                   |
-|----------------------|--------------------------------------------------------------------------------------------|
+|    Section           |                                         Link                                                  |
+|----------------------|-----------------------------------------------------------------------------------------------|
 |    Personas             | [Personas](#personas)                                                                      |
-|   Market Research      | [Google Docs](#market-research)                                                            |
+|    Market Research      | [Google Docs](#market-research)                                                            |
 |    User Feedback        | [Google Docs](#user-feedback)                                                              |
 |    Use Case             | [Use Case](#current-main-use-case)                                                         |
 |    Design Philosophy    | [Design Philosophy](#design-philosophy)                                                    |
 |    Requirements         | [Requirements](#full-requirements)                                                         |
-|    Prototypes           | [Figma](#prototypes)                                                                       |
+|    Prototypes           | [Figma and Google Docs](#prototypes)                                                       |
 |    Presentations        | [Google Slides](#presentations)                                                            |
 |    Get Started          | [Get Started](#get-started)                                                                |
 |    GitHub Repo          | [GitHub Repo (Private)](https://github.com/NewcDukem/SheTrains)                            |
 |    Product Page         | [Product Page](index.md)                                                                   |
-|    Development Progress  | [Miro Kanban Board](#development-progess)                                                  |
-|   Team Contributions   | [Google Docs](#team-contributions)                                                         |
+|    Development Progress | [Miro Kanban Board](#development-progess)                                                  |
+|    Team Contributions   | [Google Docs](#team-contributions)                                                         |
 |    Wiki                 | [You're here!](#welcome-to-the-shetrains-developer-documentation-and-wiki)                 |
 
 ## Personas
@@ -105,11 +105,13 @@ Using the coach persona defined above, Avi. This is the main use case we've defi
   - Workout tracking - out of scope, but necessary in the future
 
 ## Prototypes
-Our application prototypes can be found [here](https://www.figma.com/file/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype).
+Our application prototypes can be found [here in the Figma editing mode](https://www.figma.com/file/5Pyjp46OvK1oBDYIykatoO/SheTrains-Prototype).
 
-Our most recent prototype for SheTrains for the athlete-focused mobile app can be found [here](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=250%3A389&scaling=scale-down&page-id=248%3A68&starting-point-node-id=250%3A389). Check out [Get Started](#get-started) to see how to install the in-development version of Shetrains on your phone.
+Our most recent prototype for SheTrains for the athlete-focused mobile app can be found [here](https://www.figma.com/proto/5Pyjp46OvK1oBDYIykatoO/SheTrains-Prototype?node-id=250%3A389&scaling=scale-down&page-id=248%3A68&starting-point-node-id=250%3A389). Check out [Get Started](#get-started) to see how to install the in-development version of Shetrains on your phone.
 
-Our most recent prototype for Shetrains for the coach-focused dashboard can be found [here](https://www.figma.com/proto/7DlVf29q5uVEQFIar38SYF/SheTrains-Prototype?node-id=582%3A2211&scaling=scale-down&page-id=582%3A2210&starting-point-node-id=582%3A2211).
+Our most recent prototype for Shetrains for the coach-focused dashboard can be found [here](https://www.figma.com/proto/5Pyjp46OvK1oBDYIykatoO/SheTrains-Prototype?node-id=582%3A2211&scaling=scale-down&page-id=582%3A2210&starting-point-node-id=582%3A2211).
+
+A full explanation and brief history of what has been implemented in the Figma prototypes can be found [here](https://docs.google.com/document/d/1OiIDcKvZn4npOs_Kk-im-NLK1wx6Or7-hB1xVATzYdc/edit?usp=sharing)
 
 ## Presentations
 
