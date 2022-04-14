@@ -1,19 +1,19 @@
 # Developer Documentation
 Welcome to the SheTrains developer documentation!
 
-Currently, only the athlete mobile app has a codebase. The coach dashboard is a series of Figma prototypes which can be accessed from the [wiki](wiki.md#prototypes).
+Currently, only the athlete mobile app has a codebase. The coach dashboard is a series of Figma prototypes which can be accessed from the [wiki](README.md#prototypes).
 
 For more info about SheTrains as a whole, check out our [product page here](https://sites.google.com/view/shetrains).
 
-To clone our codebase and start developing, go to SheTrains' [private GitHub repository here](https://github.com/NewcDukem/SheTrains).
+To clone our codebase and start developing, go to SheTrains' [private GitHub repository here](https://github.com/shetrains-admn/SheTrains) and be sure to check out the [getting started section in the wiki](README.md#get-started).
 
 ## Table of Contents
 
-|                                       Sections                                                       |
-|--------------------------------------------------------------------------------------------|
-|   [Tech Stack Overview](#tech-stack-overview)                                                                      |
-|   [Routing/Component Overview](#routingcomponent-overview)                                                            |
-|    [Helpers](#helpers)                                                            |
+|                                       Sections                     |
+|--------------------------------------------------------------------|
+|   [Tech Stack Overview](#tech-stack-overview)                      |
+|   [Routing/Component Overview](#routingcomponent-overview)         |
+|   [Helpers](#helpers)                                              |
 
 
 ## Tech Stack Overview

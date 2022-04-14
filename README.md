@@ -1,11 +1,12 @@
 # Wiki
 Welcome to the SheTrains wiki!
 
-You can also check out our [product page here](https://sites.google.com/view/shetrains), [developer documentation here](dev_docs.md) or you may wish to return to SheTrains' [private GitHub repository here](https://github.com/NewcDukem/SheTrains).
+You can also check out our [product page here](https://sites.google.com/view/shetrains), [developer documentation here](dev_docs.md) or you may wish to return to SheTrains' [private GitHub repository here](https://github.com/shetrains-admn/SheTrains).
 
 ## Table of Contents
-|    Section           |                                         Link                                                  |
-|----------------------|-----------------------------------------------------------------------------------------------|
+|    Section              | Link                                                                                       |
+|-------------------------|--------------------------------------------------------------------------------------------|
+|    Product Page         | [Product Page](https://sites.google.com/view/shetrains)                                    |
 |    Personas             | [Personas](#personas)                                                                      |
 |    Market Research      | [Google Docs](#market-research)                                                            |
 |    User Feedback        | [Google Docs](#user-feedback)                                                              |
@@ -15,11 +16,11 @@ You can also check out our [product page here](https://sites.google.com/view/she
 |    Prototypes           | [Figma and Google Docs](#prototypes)                                                       |
 |    Presentations        | [Google Slides](#presentations)                                                            |
 |    Get Started          | [Get Started](#get-started)                                                                |
-|    GitHub Repo          | [GitHub Repo (Private)](https://github.com/NewcDukem/SheTrains)                            |
-|    Product Page         | [Product Page](index.md)                                                                   |
+|    GitHub Repo          | [GitHub Repo (Private)](https://github.com/shetrains-admn/SheTrains)                       |
 |    Development Progress | [Miro Kanban Board](#development-progess)                                                  |
 |    Team Contributions   | [Google Docs](#team-contributions)                                                         |
-|    Wiki                 | [You're here!](#welcome-to-the-shetrains-developer-documentation-and-wiki)                 |
+|    Developer Docs       | [Dev Docs](dev_docs.md)                                                                    |
+|    Wiki                 | [You're here!](#wiki)                                                                      |
 
 ## Personas
 To gain perspective on our target users we have created two personas.
@@ -129,7 +130,7 @@ You will need to be given permission from the development team in order to get a
 After you have access, running SheTrains is simple: clone the repo, install dependancies, and run the code.
 
 ### Clone Repo
-In the SheTrains [repo](https://github.com/NewcDukem/SheTrains), press the ![code button](/docs/assets/imgs/code_button.jpg) button and clone the repo by following one of these three steps:
+In the SheTrains [repo](https://github.com/shetrains-admn/SheTrains), press the ![code button](/docs/assets/imgs/code_button.jpg) button and clone the repo by following one of these three steps:
 1. Copy the HTTPS URL and open GitHub Desktop -> File -> Clone repository -> URL -> paste URL and choose location
 2. Copy the HTTPS URL -> open a location for SheTrains to be downloaded in your preferred terminal -> run `$ git clone <URL>`
 3. Press Download ZIP -> extract the archive to a desired location
