@@ -35,7 +35,9 @@ The second is Avi and she helps us see the our app through the eyes of a coach
 Our market research can be found [here](https://docs.google.com/document/d/1_obkrHjP5iOUZ2Q-JGU_X8vTIjbpcwR4s2MqTUNNHiw/edit?usp=sharing).
 
 ## User Feedback
-Our user feedback can be found [here](https://docs.google.com/document/d/1_KWH0lfyA3akdgJwGFHxCtil1POfQ8QoXNo63ExMCQA/edit?usp=sharing).
+Our summarized user feedback can be found [here](https://docs.google.com/document/d/1_KWH0lfyA3akdgJwGFHxCtil1POfQ8QoXNo63ExMCQA/edit?usp=sharing).
+
+If you would like to check out the individual user feedback sessions, [this link](https://drive.google.com/drive/folders/1ii02QXfHr-hZ869rDeu5XnrSc9lDFgca?usp=sharing) contains all of these files in the form of interview notes, and recorded video sessions with professional coaches and athletes.
 
 ## Current Main Use Case
 
